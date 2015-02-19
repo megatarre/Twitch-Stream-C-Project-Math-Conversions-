@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BF05FDDB-4240-4A97-B229-5E33A330061E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MathConversions</RootNamespace>
+    <AssemblyName>MathConversions</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\MegaTarre\Dropbox\TemperatureConversionGYG\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <WebPage>publish.htm</WebPage>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>BA77C56AE97A4968BA8CD72946F936DA9CB9DC59</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>TemperatureConversion_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Temperature Conversions\Delisle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temperature Conversions\Delisle.Designer.cs">
+      <DependentUpon>Delisle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temperature Conversions\Newton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temperature Conversions\Newton.Designer.cs">
+      <DependentUpon>Newton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temperature Conversions\Rankine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temperature Conversions\Rankine.Designer.cs">
+      <DependentUpon>Rankine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temperature Conversions\Reaumur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temperature Conversions\Reaumur.Designer.cs">
+      <DependentUpon>Reaumur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temperature Conversions\Romer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temperature Conversions\Romer.Designer.cs">
+      <DependentUpon>Romer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temperature Conversions\Kelvin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temperature Conversions\Kelvin.Designer.cs">
+      <DependentUpon>Kelvin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temperature Conversions\Fahrenheit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temperature Conversions\Fahrenheit.Designer.cs">
+      <DependentUpon>Fahrenheit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temperature Conversions\Celsius.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temperature Conversions\Celsius.Designer.cs">
+      <DependentUpon>Celsius.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\kelvin To Delisle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\kelvin To Delisle.Designer.cs">
+      <DependentUpon>kelvin To Delisle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\kelvin To Newton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\kelvin To Newton.Designer.cs">
+      <DependentUpon>kelvin To Newton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\kelvin To Reaumur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\kelvin To Reaumur.Designer.cs">
+      <DependentUpon>kelvin To Reaumur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\kelvin To Romer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\kelvin To Romer.Designer.cs">
+      <DependentUpon>kelvin To Romer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\kelvinToRankine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\kelvinToRankine.Designer.cs">
+      <DependentUpon>kelvinToRankine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Kelvin_To_Celsius.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Kelvin_To_Celsius.Designer.cs">
+      <DependentUpon>Kelvin_To_Celsius.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Kelvin_To_Fahrenheit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Kelvin_To_Fahrenheit.Designer.cs">
+      <DependentUpon>Kelvin_To_Fahrenheit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Delisle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Delisle.Designer.cs">
+      <DependentUpon>Fahrenheit_To_Delisle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Newton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Newton.Designer.cs">
+      <DependentUpon>Fahrenheit_To_Newton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Reaumur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Reaumur.Designer.cs">
+      <DependentUpon>Fahrenheit_To_Reaumur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Romer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Romer.Designer.cs">
+      <DependentUpon>Fahrenheit_To_Romer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Rankine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Rankine.Designer.cs">
+      <DependentUpon>Fahrenheit_To_Rankine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Kelvin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit_To_Kelvin.Designer.cs">
+      <DependentUpon>Fahrenheit_To_Kelvin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Delisle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Delisle.Designer.cs">
+      <DependentUpon>Celsius_To_Delisle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Fahrenheit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Fahrenheit.Designer.cs">
+      <DependentUpon>Celsius_To_Fahrenheit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Kelvin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Kelvin.Designer.cs">
+      <DependentUpon>Celsius_To_Kelvin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Newton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Newton.Designer.cs">
+      <DependentUpon>Celsius_To_Newton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Rankine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Rankine.Designer.cs">
+      <DependentUpon>Celsius_To_Rankine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Reaumur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Reaumur.Designer.cs">
+      <DependentUpon>Celsius_To_Reaumur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit To Celsius.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Fahrenheit To Celsius.Designer.cs">
+      <DependentUpon>Fahrenheit To Celsius.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Hour_To_Day.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Hour_To_Day.Designer.cs">
+      <DependentUpon>Hour_To_Day.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Hour_To_Minutes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Hour_To_Minutes.Designer.cs">
+      <DependentUpon>Hour_To_Minutes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Hour_To_Seconds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Hour_To_Seconds.Designer.cs">
+      <DependentUpon>Hour_To_Seconds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\InchMm Conversion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\InchMm Conversion.Designer.cs">
+      <DependentUpon>InchMm Conversion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Seconds_To_Day.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Seconds_To_Day.Designer.cs">
+      <DependentUpon>Seconds_To_Day.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Seconds_To_Hour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Seconds_To_Hour.Designer.cs">
+      <DependentUpon>Seconds_To_Hour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Seconds_To_Minutes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Seconds_To_Minutes.Designer.cs">
+      <DependentUpon>Seconds_To_Minutes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Menu\StartMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Menu\StartMenu.Designer.cs">
+      <DependentUpon>StartMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\TemperatureConversionGYG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\TemperatureConversionGYG.Designer.cs">
+      <DependentUpon>TemperatureConversionGYG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Old Code\TimeConversion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\TimeConversion.Designer.cs">
+      <DependentUpon>TimeConversion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Romer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Old Code\Celsius_To_Romer.Designer.cs">
+      <DependentUpon>Celsius_To_Romer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Temperature Conversions\Delisle.resx">
+      <DependentUpon>Delisle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temperature Conversions\Kelvin.resx">
+      <DependentUpon>Kelvin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temperature Conversions\Fahrenheit.resx">
+      <DependentUpon>Fahrenheit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temperature Conversions\Celsius.resx">
+      <DependentUpon>Celsius.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Fahrenheit_To_Delisle.resx">
+      <DependentUpon>Fahrenheit_To_Delisle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Fahrenheit_To_Kelvin.resx">
+      <DependentUpon>Fahrenheit_To_Kelvin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Celsius_To_Delisle.resx">
+      <DependentUpon>Celsius_To_Delisle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Celsius_To_Fahrenheit.resx">
+      <DependentUpon>Celsius_To_Fahrenheit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Celsius_To_Kelvin.resx">
+      <DependentUpon>Celsius_To_Kelvin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Celsius_To_Newton.resx">
+      <DependentUpon>Celsius_To_Newton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Celsius_To_Rankine.resx">
+      <DependentUpon>Celsius_To_Rankine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Celsius_To_Reaumur.resx">
+      <DependentUpon>Celsius_To_Reaumur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Fahrenheit To Celsius.resx">
+      <DependentUpon>Fahrenheit To Celsius.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Hour_To_Day.resx">
+      <DependentUpon>Hour_To_Day.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Hour_To_Minutes.resx">
+      <DependentUpon>Hour_To_Minutes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Hour_To_Seconds.resx">
+      <DependentUpon>Hour_To_Seconds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\InchMm Conversion.resx">
+      <DependentUpon>InchMm Conversion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Seconds_To_Day.resx">
+      <DependentUpon>Seconds_To_Day.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Seconds_To_Hour.resx">
+      <DependentUpon>Seconds_To_Hour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Seconds_To_Minutes.resx">
+      <DependentUpon>Seconds_To_Minutes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Menu\StartMenu.resx">
+      <DependentUpon>StartMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\TemperatureConversionGYG.resx">
+      <DependentUpon>TemperatureConversionGYG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\TimeConversion.resx">
+      <DependentUpon>TimeConversion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Celsius_To_Romer.resx">
+      <DependentUpon>Celsius_To_Romer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Fahrenheit_To_Newton.resx">
+      <DependentUpon>Fahrenheit_To_Newton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Fahrenheit_To_Rankine.resx">
+      <DependentUpon>Fahrenheit_To_Rankine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Fahrenheit_To_Reaumur.resx">
+      <DependentUpon>Fahrenheit_To_Reaumur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Old Code\Fahrenheit_To_Romer.resx">
+      <DependentUpon>Fahrenheit_To_Romer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temperature Conversions\Newton.resx">
+      <DependentUpon>Newton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temperature Conversions\Rankine.resx">
+      <DependentUpon>Rankine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temperature Conversions\Reaumur.resx">
+      <DependentUpon>Reaumur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temperature Conversions\Romer.resx">
+      <DependentUpon>Romer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TemperatureConversion_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Bugs\Known Bugs.txt" />
+    <Content Include="Project Updates\Project Updates.txt" />
+    <None Include="Resources\abstract-orange_00396472 - Copy %282%29.jpg" />
+    <None Include="Resources\abstract-orange_00396472 - Copy.jpg" />
+    <None Include="Resources\abstract-orange_00396472 - Copy %282%291.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\1423810341_PayPal_alt-32.png" />
+    <None Include="Resources\1423793062_calculator.png" />
+    <None Include="Resources\1423810246_PayPal_alt-128.png" />
+    <None Include="Resources\1423793062_calculator1.png" />
+    <None Include="Resources\1423811398_calculator-512.png" />
+    <Content Include="To do List\To Do List.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,23 @@
+﻿02-13-2015
+finish the calculator.(Basic code done so that button show the number) %100
+...............................................................................
+02-14-2015
+fix Fahrenheit to kelvin math. //done
+finsih fahrenheit UI and code. //done
+..................................................................................
+02-15-2015
+Finish calculator so that it will do math.( will add 5+5 and 55 + 5 now) //done
+finsih the code for Kelvin and the UI. //done
+Redo all the forms up to this point and put them all on the same form. //done
+Started work on the rest of the temperature forms UI 90% //done.
+Need to code all the Delisle, Kelvin, Newton, Rankine, Reaumur and Romer forms. **18%**
+...............................................................................
+02-16-2015
+Make it so only 1 decimal can be used in the calculator. IE ..5 + 5 =
+Add decimal button to it own method. //done
+Go back and check all the math. (fahrenheit good) (Kelvin good) (Celsius to delisle wrong math) //done
+Don't want the user to be able to enter a decimal as the first value. IE . * 5 = result. //done (test some more) give wrong math 02-18-2015
+...............................................................................................
+02-17-2015
+Code in the calculator where you cant do ++5 + 4 =
+fix it where the decimal button does not reenable when clear button is clicked.

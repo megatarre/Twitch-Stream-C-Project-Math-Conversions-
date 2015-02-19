@@ -1,0 +1,30 @@
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Release\Math Conversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Release\Math Conversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Release\Math Conversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Release\Math Conversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\TemperatureConversion.StartMenu.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\TemperatureConversion.TemperatureConversionGYG.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\TemperatureConversion.Properties.Resources.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.csproj.GenerateResource.Cache
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.TrustInfo.xml
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\TemperatureConversion.InchMm_Conversion.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\MathConversions.Properties.Resources.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\Math Conversions.csproj.GenerateResource.Cache
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\bin\Release\MathConversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\bin\Release\MathConversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\bin\Release\MathConversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\bin\Release\MathConversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\MathConversions.InchMm_Conversion.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\MathConversions.StartMenu.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\MathConversions.TemperatureConversionGYG.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\MathConversions.TrustInfo.xml
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\MathConversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\MathConversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\MathConversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\MathConversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\Math Conversions.csprojResolveAssemblyReference.cache
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Release\MathConversions.TimeConversion.resources

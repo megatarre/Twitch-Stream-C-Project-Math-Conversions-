@@ -1,0 +1,75 @@
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\Math Conversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\Math Conversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\Math Conversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\Math Conversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\TemperatureConversion.StartMenu.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\TemperatureConversion.TemperatureConversionGYG.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\TemperatureConversion.Properties.Resources.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.csproj.GenerateResource.Cache
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.TrustInfo.xml
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\Math Conversions.csproj.GenerateResource.Cache
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Properties.Resources.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\bin\Debug\MathConversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\bin\Debug\MathConversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\bin\Debug\MathConversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\bin\Debug\MathConversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.InchMm_Conversion.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.StartMenu.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.TemperatureConversionGYG.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.TrustInfo.xml
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\Math Conversions.csprojResolveAssemblyReference.cache
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.TimeConversion.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\bin\Debug\MathConversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\bin\Debug\MathConversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\bin\Debug\MathConversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\bin\Debug\MathConversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.InchMm_Conversion.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.StartMenu.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.TemperatureConversionGYG.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Properties.Resources.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.TimeConversion.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\Math Conversions.csproj.GenerateResource.Cache
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.TrustInfo.xml
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Fahrenheit_To_Celsius.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Celsius_To_Fahrenheit.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Seconds_To_Hour.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Seconds_To_Minutes.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Seconds_To_Day.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Hour_To_Seconds.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Hour_To_Minutes.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Hour_To_Day.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Celsius_To_Kelvin.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Celsius_To_Rankine.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Celsius_To_Newton.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Celsius_To_Reaumur.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Celsius_To_Delisle.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Temperature_Conversions.Celsius_To_Romer.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Fahrenheit_To_Kelvin.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Fahrenheit_To_Rankine.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Fahrenheit_To_Delisle.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Fahrenheit_To_Newton.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Fahrenheit_To_Reaumur.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Fahrenheit_To_Romer.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Celsius.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Fahrenheit.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Kelvin.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Delisle.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Newton.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Rankine.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Reaumur.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.Main_Menu.Romer.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2013\Projects\MathConversions\TemperatureConversion\obj\x86\Debug\Math Conversions.csprojResolveAssemblyReference.cache
+C:\Users\MegaTarre\Documents\MathConversionRepositories\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.exe
+C:\Users\MegaTarre\Documents\MathConversionRepositories\MathConversions\TemperatureConversion\obj\x86\Debug\MathConversions.pdb

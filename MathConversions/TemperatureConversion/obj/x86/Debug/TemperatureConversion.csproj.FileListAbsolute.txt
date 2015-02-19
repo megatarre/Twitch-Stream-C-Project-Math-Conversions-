@@ -1,0 +1,14 @@
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\TemperatureConversion.csprojResolveAssemblyReference.cache
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\TemperatureConversion.TemperatureConversionGYG.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\TemperatureConversion.Properties.Resources.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\TemperatureConversion.csproj.GenerateResource.Cache
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\TemperatureConversion.StartMenu.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\Math Conversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\Math Conversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\Math Conversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\Math Conversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.TrustInfo.xml
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Debug\Math Conversions.pdb

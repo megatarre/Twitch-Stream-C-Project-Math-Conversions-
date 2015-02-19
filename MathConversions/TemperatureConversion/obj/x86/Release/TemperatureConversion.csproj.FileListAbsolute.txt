@@ -1,0 +1,14 @@
+C:\Users\MegaTarre\documents\visual studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\TemperatureConversion.TemperatureConversionGYG.resources
+C:\Users\MegaTarre\documents\visual studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\TemperatureConversion.Properties.Resources.resources
+C:\Users\MegaTarre\documents\visual studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\TemperatureConversion.csproj.GenerateResource.Cache
+C:\Users\MegaTarre\documents\visual studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\TemperatureConversion.csprojResolveAssemblyReference.cache
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Release\Math Conversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Release\Math Conversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Release\Math Conversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\bin\Release\Math Conversions.pdb
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\TemperatureConversion.StartMenu.resources
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.TrustInfo.xml
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.exe.manifest
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.application
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.exe
+C:\Users\MegaTarre\Documents\Visual Studio 2010\Projects\TemperatureConversion\TemperatureConversion\obj\x86\Release\Math Conversions.pdb
